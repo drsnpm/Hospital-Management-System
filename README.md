@@ -89,13 +89,15 @@ Make sure you have the following software installed:
 ### Patient Home page
 ![Image](https://github.com/user-attachments/assets/63e04fa0-bb26-4229-adb6-8e6e1d7c21d6)
 ### Patient Appointment page
-![Image](https://github.com/user-attachments/assets/d6cafa7d-fd87-4871-a1d2-fdb9e821301c)
-### Patient Appointment History page
 ![Image](https://github.com/user-attachments/assets/fcfeaa15-faf2-4651-a54d-b35a994ed8ea)
+### Patient Appointment History page
+![Image](https://github.com/user-attachments/assets/f69b940d-dfb6-491a-b66a-47f948a8a573)
+
 ### Patient Profile page
 ![Image](https://github.com/user-attachments/assets/ccbf48a0-9b91-4afc-a539-8223eeef185b)
 ### Patient profile Update page
-![Image](https://github.com/user-attachments/assets/f69b940d-dfb6-491a-b66a-47f948a8a573)
+![Image](https://github.com/user-attachments/assets/d6cafa7d-fd87-4871-a1d2-fdb9e821301c)
+
 
 ### Doctor Dashboard Page
 ![Image](https://github.com/user-attachments/assets/9ad80394-7cd0-43c6-a724-43950f91bf26)
