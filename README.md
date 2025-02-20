@@ -99,11 +99,12 @@ Make sure you have the following software installed:
 
 
 ### Doctor Dashboard Page
-![Image](https://github.com/user-attachments/assets/9ad80394-7cd0-43c6-a724-43950f91bf26)
+![Image](https://github.com/user-attachments/assets/eb161829-7d6f-4f96-980e-65f298174801)
 ### Doctor View Patient Appointments Page
-![Image](https://github.com/user-attachments/assets/7606fdb6-47e9-4345-9b51-204039e7aaa7)
+![Image](https://github.com/user-attachments/assets/82d0e1c1-833d-41c8-9073-7d86057108de)
 ### Doctor View Patient Details Page
-![Image](https://github.com/user-attachments/assets/4adecc31-1354-4d99-9686-c83fe0f6a5e6)
+![Image](https://github.com/user-attachments/assets/d8925195-a1f5-4137-ac12-331a6f28dea3)
+
 
 ### Admin Dashboard Page
 ![Image](https://github.com/user-attachments/assets/3870495d-316b-47d4-8408-6d6329affa2e)
