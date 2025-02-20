@@ -115,12 +115,12 @@ Make sure you have the following software installed:
 ### Admin Manage Doctor Page
 ![Image](https://github.com/user-attachments/assets/4372ab39-98ef-4510-a778-057868decfc4)
 ### Admin Add Doctor Page
-
+![Image](https://github.com/user-attachments/assets/e98fd5ad-4311-43b8-be7b-c8f4e0c428ca)
 ### Admin Manage Patient Page
 ![Image](https://github.com/user-attachments/assets/dd25e8a2-1b02-4e1e-a17e-b49d3fe91bb7)
 ### Admin Add Patient Page
 ![Image](https://github.com/user-attachments/assets/a305ee18-de6a-4463-ad2a-c98571e16904)
-### Admin manage Specialist
+### Admin manage Appointments
 ![Image](https://github.com/user-attachments/assets/fd90af34-30df-4e09-8987-789a5608f607)
 ### Admin Profile Page
 ![Image](https://github.com/user-attachments/assets/1376da14-b883-4d48-9002-e405e2a5a752)
