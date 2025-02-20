@@ -83,19 +83,20 @@ Make sure you have the following software installed:
 ### Home Page
 ![Image](https://github.com/user-attachments/assets/e2c7c3d7-2a38-4c30-aa24-eed40c5f9ef7)
 ### Patient Register page
-![Image](https://github.com/user-attachments/assets/582e5db0-edf7-4939-b03e-c8f56884e59b)
+![Image](https://github.com/user-attachments/assets/9f46b4fc-1092-4f98-9a8e-550b18ed1abc)
 ### Patient Login page
-![Image](https://github.com/user-attachments/assets/a3f4ea22-a1a6-4f0a-adeb-e95b69282fde)
+![Image](https://github.com/user-attachments/assets/4e905ce8-5df3-4ec9-a229-18790bc955c2)
 ### Patient Home page
-![Image](https://github.com/user-attachments/assets/06e34ac7-2591-4832-ae25-df032464e67f)
+![Image](https://github.com/user-attachments/assets/63e04fa0-bb26-4229-adb6-8e6e1d7c21d6)
 ### Patient Appointment page
-![Image](https://github.com/user-attachments/assets/9b022ef9-0db1-4781-a148-97eef4cfdc9c)
+![Image](https://github.com/user-attachments/assets/d6cafa7d-fd87-4871-a1d2-fdb9e821301c)
 ### Patient Appointment History page
-![Image](https://github.com/user-attachments/assets/191a898a-780a-4120-976c-aace82ad17d2)
+![Image](https://github.com/user-attachments/assets/fcfeaa15-faf2-4651-a54d-b35a994ed8ea)
 ### Patient Profile page
-![Image](https://github.com/user-attachments/assets/53ad5fa0-0e72-4847-9f49-0796596d4d05)
+![Image](https://github.com/user-attachments/assets/ccbf48a0-9b91-4afc-a539-8223eeef185b)
 ### Patient profile Update page
-![Image](https://github.com/user-attachments/assets/c86ff60c-9eb3-4ebf-98cf-0bfe02df0be3)
+![Image](https://github.com/user-attachments/assets/f69b940d-dfb6-491a-b66a-47f948a8a573)
+
 ### Doctor Dashboard Page
 ![Image](https://github.com/user-attachments/assets/9ad80394-7cd0-43c6-a724-43950f91bf26)
 ### Doctor View Patient Appointments Page
