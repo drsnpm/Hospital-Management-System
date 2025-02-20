@@ -81,7 +81,7 @@ Make sure you have the following software installed:
 
 ## Snapshots
 ### Home Page
-![Image](https://github.com/user-attachments/assets/e2c7c3d7-2a38-4c30-aa24-eed40c5f9ef7)
+![Image](https://github.com/user-attachments/assets/040d015d-7eb0-4aef-8d14-5588ae0c51eb)
 ### Patient Register page
 ![Image](https://github.com/user-attachments/assets/9f46b4fc-1092-4f98-9a8e-550b18ed1abc)
 ### Patient Login page
