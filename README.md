@@ -107,18 +107,36 @@ Make sure you have the following software installed:
 
 
 ### Admin Dashboard Page
-![Image](https://github.com/user-attachments/assets/3870495d-316b-47d4-8408-6d6329affa2e)
+![Image](https://github.com/user-attachments/assets/dbcf48c0-5ae6-41a9-884a-a71ae0e874a9)
 ### Admin Manage Specialist Page
-![Image](https://github.com/user-attachments/assets/482cf0bd-6611-45ee-b0dc-fa23aad84c0b)
+![Image](https://github.com/user-attachments/assets/98c96ce9-61ad-4673-95b1-a2ec95f7d47d)
 ### Admin Add Specialist Page
-![Image](https://github.com/user-attachments/assets/7323d57a-f412-4e35-aed0-9847efcad134)
+![Image](https://github.com/user-attachments/assets/733be067-d7f9-47c0-b1bb-8d236d536e36)
 ### Admin Manage Doctor Page
-![Image](https://github.com/user-attachments/assets/acb32610-82d0-49fc-863a-f79e1d421173)
+![Image](https://github.com/user-attachments/assets/4372ab39-98ef-4510-a778-057868decfc4)
 ### Admin Add Doctor Page
-![Image](https://github.com/user-attachments/assets/19096851-2a0e-4ddb-b9ae-d43b8f6d7072)
+![Image](https://github.com/user-attachments/assets/dd25e8a2-1b02-4e1e-a17e-b49d3fe91bb7)
 ### Admin Manage Patient Page
-![Image](https://github.com/user-attachments/assets/a7e3a059-5e6a-4364-8f9a-6a44b09ee427)
+![Image](https://github.com/user-attachments/assets/a305ee18-de6a-4463-ad2a-c98571e16904)
 ### Admin Add Patient Page
-![Image](https://github.com/user-attachments/assets/596c15e2-88fc-4066-ba04-8abac3c303b4)
+![Image](https://github.com/user-attachments/assets/fd90af34-30df-4e09-8987-789a5608f607)
 ### Admin Profile Page
-![Image](https://github.com/user-attachments/assets/53f519af-bb97-473f-ab26-baaa4e4cf8c1)
+![Image](https://github.com/user-attachments/assets/1376da14-b883-4d48-9002-e405e2a5a752)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
