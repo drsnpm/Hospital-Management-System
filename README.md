@@ -30,7 +30,7 @@ Make sure you have the following software installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/drsnpm/online-railway-reservation-system.git
+   git clone https://github.com/drsnpm/hospital-management-system.git
    
 2. Configure the database in `DBConnect.java` and update `web.xml`.
 3. Compile and run the server using Apache Tomcat:
