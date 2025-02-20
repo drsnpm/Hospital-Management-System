@@ -101,9 +101,9 @@ Make sure you have the following software installed:
 ### Doctor Dashboard Page
 ![Image](https://github.com/user-attachments/assets/eb161829-7d6f-4f96-980e-65f298174801)
 ### Doctor View Patient Appointments Page
-![Image](https://github.com/user-attachments/assets/82d0e1c1-833d-41c8-9073-7d86057108de)
+![Image](https://github.com/user-attachments/assets/d862111f-933c-40b4-a4df-79dfd810017c)
 ### Doctor View Patient Details Page
-![Image](https://github.com/user-attachments/assets/d8925195-a1f5-4137-ac12-331a6f28dea3)
+![Image](https://github.com/user-attachments/assets/8528ba9b-f436-4f62-97bc-02e9044b5b61)
 
 
 ### Admin Dashboard Page
