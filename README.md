@@ -121,7 +121,7 @@ Make sure you have the following software installed:
 ### Admin Add Patient Page
 ![Image](https://github.com/user-attachments/assets/a305ee18-de6a-4463-ad2a-c98571e16904)
 ### Admin manage Appointments
-![Image](https://github.com/user-attachments/assets/fd90af34-30df-4e09-8987-789a5608f607)
+![Image](https://github.com/user-attachments/assets/bc1217e5-bf03-48d9-9bba-ae4f05948599)
 ### Admin Profile Page
 ![Image](https://github.com/user-attachments/assets/1376da14-b883-4d48-9002-e405e2a5a752)
 
