@@ -61,8 +61,8 @@ Make sure you have the following software installed:
 2. **Profile Management** – Doctor can view and update their personal details..
 3. **Change Password** – Change password securely. Old password verification for security.
 4. **View Appointments** – Doctors can see pending, approved, and canceled appointments from patients.
-6. **Approve or Reject Appointments** – Doctors can approve or reject appointment requests.
-7. **Logout Securely** – Option to log out securely to prevent unauthorized access.
+5. **Approve or Reject Appointments** – Doctors can approve or reject appointment requests.
+6. **Logout Securely** – Option to log out securely to prevent unauthorized access.
 
 
 ## Features for Admin
@@ -70,7 +70,7 @@ Make sure you have the following software installed:
 2. **Manage Specialists** – Add or delete specialist categories (e.g., cardiology, dermatology, neurology).
 3. **Manage Doctors** – Add, update, and delete doctor profiles.
 4. **Manage Patients** – Add, update, and delete patient profiles..
-5. **Manage Appointments** – View the pending, approve, or cancel patient appointments.
+5. **Manage Appointments** – View the pending, approve, or delete patient appointments.
 6. **Profile Management** – Admins can update their personal details.
 7. **Change Password** –  Admins can change their password securely. Old password verification for security.
 8. **Logout Securely** – Option to log out securely to prevent unauthorized access.
