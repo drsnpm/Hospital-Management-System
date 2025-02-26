@@ -65,6 +65,25 @@ Make sure you have the following software installed:
 6. **Approve or Reject Appointments** – Doctors can approve or reject appointment requests.
 7. **Logout Securely** – Option to log out securely to prevent unauthorized access.
 
+## Features for Patients
+1. **Patient Registration** – New patients can register using their credentials. Email verification is required for security.
+2. **Patient Login & Authentication** – Secure login system using a username and password.
+3. **Profile Management** – Patients can view and update their personal details.
+4. **Change Password** – Change password securely, with old password verification for security.
+5. **Search for Available Doctors** – Search for doctors by specialization, availability, or name.
+6. **Book Appointment with a Doctor** – Schedule an appointment with an available doctor by selecting the date, time, and reason for the visit.
+7. **View Appointment Details** – View doctor's details, appointment date, time, and status.
+8. **Cancel Appointment** – Patients can cancel appointments before a set deadline.
+9. **Logout Securely** – Option to log out securely to prevent unauthorized access.
+
+## Features for Doctors
+1. **Doctor Login & Authentication** – Secure login system using a username and password.
+2. **Profile Management** – Doctors can view and update their personal details.
+3. **Change Password** – Change password securely, with old password verification for security.
+4. **View Appointments** – Doctors can see pending, approved, and canceled appointments from patients.
+5. **Book Appointment with a Doctor** – Schedule an appointment with an available doctor by selecting the date, time, and reason for the visit.
+6. **Approve or Reject Appointments** – Doctors can approve or reject appointment requests.
+7. **Logout Securely** – Option to log out securely to prevent unauthorized access.
 
 
 ## Features for Admin
